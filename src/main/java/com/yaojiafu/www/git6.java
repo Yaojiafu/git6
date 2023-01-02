@@ -6,5 +6,6 @@ public class git6 {
         System.out.println("sadfasd02");
         System.out.println("sadfasd03");
         System.out.println("master分支");
+        System.out.println("hot-fix分支");
     }
 }

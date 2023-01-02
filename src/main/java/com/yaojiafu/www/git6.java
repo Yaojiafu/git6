@@ -5,5 +5,6 @@ public class git6 {
         System.out.println("sadfasd01");
         System.out.println("sadfasd02");
         System.out.println("sadfasd03");
+        System.out.println("master分支");
     }
 }
